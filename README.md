@@ -19,6 +19,7 @@ pip3 install --user -r requirements.txt
 ```
 python3 NumSpy.py
 ```
+<img src="NumSpy.png" alt="working screen shot">
 
 # Help
 ```
