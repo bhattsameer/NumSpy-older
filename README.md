@@ -24,3 +24,9 @@ python3 NumSpy.py
 ```
 python3 NumSpy.py -h
 ```
+
+# TEAM
+```
+DeBugger (Sameer Bhatt)
+T3r@bYt3 (Gurkirat Singh)
+```
