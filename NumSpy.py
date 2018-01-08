@@ -23,7 +23,7 @@ def banner():
 def search_single(number, store=False, file=None):
     print("<--[ Searching Details For {} ]-->".format(number), end="\n\n")
     try:
-        r = get(api.format(number=number))
+        r = get(api.format(number=number),verify=False)
         raw = r.content.decode()
         data = "<table>" + raw.split("<table>")[1].split("</table>")[0] + "</table>"
         op = html2rst(data)
@@ -47,7 +47,7 @@ def multiple_search(store=False, file=None, readfile=False):
     for num in nums:
         print("\n<--[ Searching Details For {} ]-->".format(num), end="\n\n")
         try:
-            r = get(api.format(number=num))
+            r = get(api.format(number=num),verify=False)
             raw = r.content.decode()
             data = "<table>" + raw.split("<table>")[1].split("</table>")[0] + "</table>"
             op = html2rst(data)
