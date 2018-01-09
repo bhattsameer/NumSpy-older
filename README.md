@@ -14,9 +14,14 @@ pip3 install --user -r requirements.txt
 
 2. start the program
 ```
-python3 NumSpy.py --number mobile_number
+python3 NumSpy.py
 ```
 <img src="NumSpy.png" alt="working screen shot">
+
+# Scan Mobile number 
+```
+python3 NumSpy.py --number mobile_number
+```
 
 # Store Details into file
 ```
