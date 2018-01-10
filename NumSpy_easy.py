@@ -1,19 +1,21 @@
 from dashtable import html2rst
 from requests import get, HTTPError
 from argparse import ArgumentParser
+import warnings
+warnings.filterwarnings("ignore")
 
 api = "https://www.tricksfolks.com/truecaller/search.php?ccode=IN&number={number}"
 
 def banner():
     print("""
- __    _  __   __  __   __  _______  _______  __   __ 
+ __    _  __   __  __   __  _______  _______  __   __
 |  |  | ||  | |  ||  |_|  ||       ||       ||  | |  |
 |   |_| ||  | |  ||       ||  _____||    _  ||  |_|  |
 |       ||  |_|  ||       || |_____ |   |_| ||       |
 |  _    ||       ||       ||_____  ||    ___||_     _|
-| | |   ||       || ||_|| | _____| ||   |      |   |  
-|_|  |__||_______||_|   |_||_______||___|      |___| 
-        
+| | |   ||       || ||_|| | _____| ||   |      |   |
+|_|  |__||_______||_|   |_||_______||___|      |___|
+
         A truecaller Indian Number Search API
         Created By: DeBugger (Sameer Bhatt)
                     T3r@bYt3 (Gurkirat Singh)
@@ -34,7 +36,7 @@ def search_single(number, store=False, file=None):
                 f.close()
             print("[!] Search Result is stored in {}".format(file))
         else:
-            print(op) 
+            print(op)
     except HTTPError as e:
         print("[x] Check Your Internet Connection")
     pass
@@ -62,7 +64,7 @@ def multiple_search(store=False, file=None, readfile=False):
             print("[x] Check Your Internet Connection")
     if file and store:
         print("Saved seach result to {}".format(file))
-            
+
     pass
 
 def main():
