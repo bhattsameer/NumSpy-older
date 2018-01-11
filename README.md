@@ -32,7 +32,7 @@ python3 NumSpy.py --number mobile_number -o output.txt
 ```
 Run NumSpy.exe file
 ```
-<img src="NS.png" alt="GUI Image"/>
+<img src="NS.PNG" alt="GUI Image"/>
 
 
 # Help
