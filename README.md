@@ -28,6 +28,13 @@ python3 NumSpy.py --number mobile_number
 python3 NumSpy.py --number mobile_number -o output.txt
 ```
 
+# GUI Version
+```
+Run NumSpy.exe file
+```
+<img src="NS.PNG" alt="GUI Image"/>
+
+
 # Help
 ```
 python3 NumSpy.py -h
@@ -37,5 +44,6 @@ python3 NumSpy.py -h
 ```
 DeBugger (Sameer Bhatt)
 T3r@bYt3 (Gurkirat Singh)
+V1Ru5    (MohammadYahya)
 vaibhav0000patel (vaibhav Patel)
 ```
