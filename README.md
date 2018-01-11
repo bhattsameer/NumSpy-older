@@ -52,5 +52,5 @@ vaibhav0000patel (vaibhav Patel)
 ```
 
 ```
-NOTE: i am not responsible for any thing you do with this script This is just for learning and knowledge purpose.
+NOTE: We are not responsible for any thing you do with this script, This is just for learning and knowledge purpose.
 ```
