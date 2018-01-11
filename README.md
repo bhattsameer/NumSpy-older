@@ -47,5 +47,6 @@ python3 NumSpy.py -h
 DeBugger (Sameer Bhatt)
 T3r@bYt3 (Gurkirat Singh)
 V1Ru5    (MohammadYahya)
+#3rRY    (Hariom Panchal)
 vaibhav0000patel (vaibhav Patel)
 ```
