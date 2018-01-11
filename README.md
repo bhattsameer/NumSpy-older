@@ -1,6 +1,6 @@
 # NumSpy
 
-<img src="logo.png" alt="NumSpy logo" align="center" width="100px" height="100px"/>
+<img src="logo.png" alt="NumSpy logo" align="middle" width="150px" height="150px"/>
 
 Find details of any mobile number in india.
 A TruceCaller Indian number Search ApI.
