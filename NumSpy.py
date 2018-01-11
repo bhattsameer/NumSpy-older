@@ -17,6 +17,7 @@ def banner():
         A truecaller Indian Number Search API
         Created By: DeBugger (Sameer Bhatt)
                     T3r@bYt3 (Gurkirat Singh)
+                    V1Ru5     (MohammadYahya)
 """)
     pass
 
