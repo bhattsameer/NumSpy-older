@@ -50,3 +50,7 @@ V1Ru5    (MohammadYahya)
 #3rRY    (Hariom Panchal)
 vaibhav0000patel (vaibhav Patel)
 ```
+
+```
+NOTE: i am not responsible for any thing you do with this script This is just for learning and knowledge purpose.
+```
