@@ -2,7 +2,7 @@ from dashtable import html2rst
 from requests import get, HTTPError
 from argparse import ArgumentParser
 
-api = "https://www.tricksfolks.com/truecaller/search.php?ccode=IN&number={number}"
+api = "link"
 
 def banner():
     print("""
