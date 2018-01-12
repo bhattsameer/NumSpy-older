@@ -4,7 +4,7 @@ from argparse import ArgumentParser
 import warnings
 warnings.filterwarnings("ignore")
 
-api = "https://www.tricksfolks.com/truecaller/search.php?ccode=IN&number={number}"
+api = "link"
 
 def banner():
     print("""
