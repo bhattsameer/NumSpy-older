@@ -1,4 +1,4 @@
-# NumSpy
+# NumSpy  [![Python 3](https://img.shields.io/badge/Python-3-yellow.svg)](http://www.python.org/download/)
 
 <img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
