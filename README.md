@@ -1,3 +1,7 @@
+# new Numspy package is buit using python3 and available to install using pip check below link to go to new version of numspy.
+</br>
+<a href="https://github.com/bhattsameer/numspy">Numspy-0.1</a></br>
+
 # NumSpy  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
 
 <img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
